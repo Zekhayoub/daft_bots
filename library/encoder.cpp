@@ -1,0 +1,1 @@
+// File for the code of the encoder class
